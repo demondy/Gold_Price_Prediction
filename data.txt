@@ -1,0 +1,8 @@
+|Name|Description|Source|
+|---|---|---|---|
+|GOLDAMGBD228NLBM|Gold Midmorning London market price, measured in USD per Troy Ounce|https://fred.stlouisfed.org/series/GOLDAMGBD228NLBM|
+|GOLDPMGBD228NLBM|Gold Midafternoon London market price, measured in USD per Troy Ounce|https://fred.stlouisfed.org/series/GOLDPMGBD228NLBM|
+|GVZCLS|30 day volitility of SPDR GLD ETF|https://fred.stlouisfed.org/series/GVZCLS|
+|VXGDXCLS|30 day volitility of VanEck GDX ETF|https://fred.stlouisfed.org/series/VXGDXCLS|
+|BAMLH0A0HYM2|ICE BofA US High Yield Index Option-Adjusted Spread|https://fred.stlouisfed.org/series/BAMLH0A0HYM2|
+|SP500|S&P 500 value at market close|https://fred.stlouisfed.org/series/https://fred.stlouisfed.org/series/SP500|
