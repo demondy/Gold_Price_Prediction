@@ -1,6 +1,6 @@
 # Gold_Price_Prediction
 
-##Summary 
+Summary 
 The goal of this project is to produce a predictive model for gold price by examining indicators of uncertainty or stress in capital markets. The model is built upon the common understanding that individual investors flee equity markets to gold in periods of uncertainty or distress. I used a variety of metrics, related to gold option spreads, bond spreads and the S&P 500. The resulting model was not sufficient. Its predictions, while varied, stayed much closer to the mean than the actual market. The model was therefore ineffective at predicting the desired large movements.
 
 ---
